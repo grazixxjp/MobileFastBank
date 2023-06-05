@@ -1,0 +1,5 @@
+Fazer:
+Login no Django
+Upload de Foto
+Transferência
+Acesso após três tentativas de senha errada ·
